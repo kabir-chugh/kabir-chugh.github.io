@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://kabir-chugh.github.io/al-folio/sitemap.xml
+Sitemap: https://kabir-chugh.github.io//sitemap.xml
